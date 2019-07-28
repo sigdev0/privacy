@@ -7,7 +7,7 @@ services:
     expose:
       - "8000"
     links:
-      - postgres:sigdev/pgdump:28
+      - postgres:postgres
     volumes:
       - web-data:/usr/src/app/static
     env_file: 
