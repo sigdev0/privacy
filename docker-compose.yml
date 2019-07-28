@@ -7,7 +7,7 @@ services:
     expose:
       - "8000"
     links:
-      - pgdemo:pgdemo
+      - pgdump:pgdump
     volumes:
       - web-data:/usr/src/app/static
     env_file: 
@@ -25,14 +25,14 @@ services:
       - web:web
 
   data:
-    image: pgdemo:latest 
+    image: pgdump:latest 
     volumes:
       - db-data:/var/lib/postgresql/data
     command: "true"
 
-  pgdemo:
+  pgdump:
     restart: always
-    image: pgdemo:latest
+    image: pgdump:latest
     volumes:
       - db-data:/var/lib/postgresql/data
     ports:
