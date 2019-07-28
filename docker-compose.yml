@@ -25,7 +25,7 @@ services:
       - web:web
 
   data:
-    image: pgdemo:latest
+    image: pgdemo:latest 
     volumes:
       - db-data:/var/lib/postgresql/data
     command: "true"
