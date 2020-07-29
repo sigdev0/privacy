@@ -57,4 +57,4 @@ This policy is effective as of 2020-07-29
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [fadhlillah.aufar@sigma.co.id](https://privacypolicytemplate.net).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [scmt.help@sigma.co.id](https://privacypolicytemplate.net).
