@@ -1,5 +1,3 @@
-**Privacy Policy**
-
 Telkom Indonesia built the SCMT Mobile app as an Open Source app. This SERVICE is provided by Telkom Indonesia at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
